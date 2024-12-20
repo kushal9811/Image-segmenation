@@ -126,16 +126,4 @@ Here’s a sample segmentation result using KMeans with coreset optimization:
 - **Speed**: The coreset method significantly improves processing speed by reducing the number of data points, making the algorithm faster even for large images.
 - **Memory Efficiency**: By reducing the size of the dataset, the algorithm requires less memory, which is particularly beneficial for high-resolution images.
 
-## Future Improvements
 
-- **Color Space Support**: Support for additional color spaces such as HSV or Lab for better segmentation accuracy.
-- **Interactive Visualization**: Allow users to adjust parameters such as the number of clusters and sample size in real time for dynamic analysis.
-- **Improved Segmentation**: Experiment with other clustering algorithms or advanced coreset techniques to further optimize performance.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adjust the content as needed!
