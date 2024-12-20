@@ -1,6 +1,3 @@
-Here's the updated README for your **Image Segmentation using KMeans Clustering with Coresets** project based on your provided code:
-
----
 
 # Image Segmentation using KMeans Clustering with Coresets
 
