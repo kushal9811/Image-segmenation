@@ -111,7 +111,7 @@ Here’s a sample segmentation result using KMeans with coreset optimization:
 
 **Input Image:**
 
-![Input Image](Fruits.jpg)
+![Input Image](fruits.jpg)
 
 **Segmented Image (Original):**
 
